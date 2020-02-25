@@ -19,6 +19,7 @@ namespace Client
             // string filepath = @"d:\";
             Console.WriteLine("hello");
             Console.WriteLine("checking the code snippets");
+            Console.WriteLine("github commit");
             //Console.wr
         }
     }

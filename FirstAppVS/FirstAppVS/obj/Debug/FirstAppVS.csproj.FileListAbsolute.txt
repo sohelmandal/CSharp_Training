@@ -5,3 +5,10 @@ F:\C#_training\2nd_Day_25thFeb\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.csproj
 F:\C#_training\2nd_Day_25thFeb\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.csproj.CoreCompileInputs.cache
 F:\C#_training\2nd_Day_25thFeb\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.exe
 F:\C#_training\2nd_Day_25thFeb\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.pdb
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\bin\Debug\FirstAppVS.exe.config
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\bin\Debug\FirstAppVS.exe
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\bin\Debug\FirstAppVS.pdb
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.csprojAssemblyReference.cache
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.csproj.CoreCompileInputs.cache
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.exe
+F:\C#_training\2nd_Day_25thFeb\CSharp_Training\FirstAppVS\FirstAppVS\obj\Debug\FirstAppVS.pdb
